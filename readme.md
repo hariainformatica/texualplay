@@ -1,6 +1,7 @@
 # Sunday Project with Textual
 
 ## Working with conda:
+https://code.visualstudio.com/docs/python/environments
 
 https://conda.io/projects/conda/en/latest/user-guide/getting-started.html
 https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
